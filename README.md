@@ -8,7 +8,7 @@
 - 🔄 Currently transitioning into **Full Stack / Backend Development**
 - 🌱 Learning **Java, Spring Boot, Node.js, and system design**
 - 🧠 Strong experience with **Agile/Scrum development environments**
-- 📫 Reach me at: **[aravindnarayanans4296@gmail.com] | [[LinkedIn](https://aravindnarayanans.github.io/profile/)] | [www.linkedin.com/in/aravindnarayanans/]**
+- 📫 Reach me at: **[aravindnarayanans4296@gmail.com](mailto:aravindnarayanans4296@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravindnarayanans/) | [Portfolio](https://aravindnarayanans.github.io/profile/)**
 
 ---
 
@@ -23,6 +23,7 @@
 - PrimeReact
 
 **Backend**
+- .Net
 - Node.js
 - Express.js
 - Java (Learning)
@@ -45,12 +46,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
+## 🛠️ Skills & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ---
 
 ## 🔥 Current Focus
@@ -61,6 +63,6 @@
 ---
 
 ## 🤝 Let's Connect
-- 💼 LinkedIn: [www.linkedin.com/in/aravindnarayanans/]
-- 🌐 Portfolio: [https://aravindnarayanans.github.io/profile/]
-- 📧 Email: [aravindnarayanans4296@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/aravindnarayanans/
+- 🌐 Portfolio: https://aravindnarayanans.github.io/profile/
+- 📧 Email: aravindnarayanans4296@gmail.com
