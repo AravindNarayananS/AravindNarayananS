@@ -11,6 +11,9 @@
 - 📫 Reach me at: **[aravindnarayanans4296@gmail.com](mailto:aravindnarayanans4296@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravindnarayanans/) | [Portfolio](https://aravindnarayanans.github.io/profile/)**
 
 ---
+## 📊 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindNarayananS&layout=compact&theme=dark)
+---
 
 ## 🛠️ Tech Stack
 
